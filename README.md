@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <!-- Hero Header -->
@@ -65,7 +65,6 @@ I am a final-year **Information Technology** student passionate about building r
 ```text
 📘 React.js  |  ⚡ Full-Stack Architectures  |  🎨 Advanced UI/UX Patterns  |  ⚙️ Backend Optimization
 
-```
 
 ---
 
