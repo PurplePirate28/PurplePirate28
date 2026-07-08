@@ -92,12 +92,12 @@ A modern structural platform built to present academic data streams, curriculums
 * **Tech Stack:** `HTML` • `CSS` • `JavaScript` • `UI Design`
 * **Links:** [📂 GitHub Repository](https://github.com/PurplePirate28/Ischool) | [🌐 Live Production](https://purplepirate28.github.io/Ischool/)
 
-### 💼 Professional Portfolio
+### 💼 Student Management  System
 
-A premium digital ecosystem compiling my architectural milestones, software engineering designs, and evolution as a developer.
+A web-based Student Management System for managing students,teachers,attendance,grades,and report cards.
 
-* **Tech Stack:** `HTML` • `CSS` • `JavaScript` • `Responsive Layouts`
-* **Links:** [📂 GitHub Repository](https://github.com/PurplePirate28/portfolio) | [🌐 Live Production](https://purplepirate28.github.io/portfolio)
+* **Tech Stack:** `HTML` • `CSS` • `JavaScript` • `Responsive Layouts` `PHP 8`  `MySQL` `PDO` `PhpMyAdmin`
+* **Links:** [📂 GitHub Repository](https://github.com/PurplePirate28/student-management-system.git) | [🌐 Live Production](https://purplepirate28.github.io/student-management-system/)
 
 ---
 
