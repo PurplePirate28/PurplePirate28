@@ -62,28 +62,42 @@ I am a final-year **Information Technology** student passionate about building r
 </details>
 
 ### 🚀 Currently Exploring
-```text
+
 📘 React.js  |  ⚡ Full-Stack Architectures  |  🎨 Advanced UI/UX Patterns  |  ⚙️ Backend Optimization
+
 
 
 ---
 
 ## 🛠️ Featured Engineering Projects
 
-| Project | Description | Tech Stack | Architecture & Access |
-| --- | --- | --- | --- |
-| **Recipe Finder** | A modern, responsive dashboard interface designed to look up and display culinary meals dynamically using asynchronous architecture. | `HTML`, `CSS`, `JavaScript`, `TheMealDB REST API` | [📂 Repository](https://github.com/PurplePirate28/Recipefind) <br>
+### 🍲 Recipe Finder
 
-<br> [🌐 Live Demo](https://purplepirate28.github.io/Recipefind/) |
-| **Quizzle** | An interactive dynamic quiz engine rendering real-time metrics, scoring algorithms, and an elegant responsive layout. | `HTML`, `CSS`, `JavaScript`, `DOM Manipulation` | [📂 Repository](https://github.com/PurplePirate28/Quizzle) <br>
+A modern, responsive dashboard interface designed to look up and display culinary meals dynamically using asynchronous architecture.
 
-<br> [🌐 Live Demo](https://purplepirate28.github.io/Quizzle/) |
-| **ISCHOOL** | A platform built to present academic data streams, curriculums, and administrative programs smoothly to users. | `HTML`, `CSS`, `JavaScript`, `UI Design` | [📂 Repository](https://github.com/PurplePirate28/Ischool) <br>
+* **Tech Stack:** `HTML` • `CSS` • `JavaScript` • `TheMealDB REST API`
+* **Links:** [📂 GitHub Repository](https://github.com/PurplePirate28/Recipefind) | [🌐 Live Production](https://purplepirate28.github.io/Recipefind/)
 
-<br> [🌐 Live Demo](https://purplepirate28.github.io/Ischool/) |
-| **Portfolio** | A premium digital ecosystem compiling my architectural milestones, software designs, and evolution as an engineer. | `HTML`, `CSS`, `JavaScript`, `Responsive Design` | [📂 Repository](https://github.com/PurplePirate28/portfolio) <br>
+### 🧠 Quizzle
 
-<br> [🌐 Live Demo](https://purplepirate28.github.io/portfolio) |
+An interactive dynamic quiz engine rendering real-time performance metrics, scoring algorithms, and an elegant responsive layout.
+
+* **Tech Stack:** `HTML` • `CSS` • `JavaScript` • `DOM Manipulation`
+* **Links:** [📂 GitHub Repository](https://github.com/PurplePirate28/Quizzle) | [🌐 Live Production](https://purplepirate28.github.io/Quizzle/)
+
+### 🏫 ISCHOOL
+
+A modern structural platform built to present academic data streams, curriculums, and administrative programs smoothly to users.
+
+* **Tech Stack:** `HTML` • `CSS` • `JavaScript` • `UI Design`
+* **Links:** [📂 GitHub Repository](https://github.com/PurplePirate28/Ischool) | [🌐 Live Production](https://purplepirate28.github.io/Ischool/)
+
+### 💼 Professional Portfolio
+
+A premium digital ecosystem compiling my architectural milestones, software engineering designs, and evolution as a developer.
+
+* **Tech Stack:** `HTML` • `CSS` • `JavaScript` • `Responsive Layouts`
+* **Links:** [📂 GitHub Repository](https://github.com/PurplePirate28/portfolio) | [🌐 Live Production](https://purplepirate28.github.io/portfolio)
 
 ---
 
