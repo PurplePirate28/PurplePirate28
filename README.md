@@ -97,7 +97,7 @@ A modern structural platform built to present academic data streams, curriculums
 A web-based Student Management System for managing students,teachers,attendance,grades,and report cards.
 
 * **Tech Stack:** `HTML` • `CSS` • `JavaScript` • `Responsive Layouts` `PHP 8`  `MySQL` `PDO` `PhpMyAdmin`
-* **Links:** [📂 GitHub Repository](https://github.com/PurplePirate28/student-management-system.git) | [🌐 Live Production](https://purplepirate28.github.io/student-management-system/)
+* **Links:** [📂 GitHub Repository](https://github.com/PurplePirate28/student-management-system.git) | [🌐 Live Production](https://schoolhub.site.je)
 
 ---
 
