@@ -10,9 +10,8 @@
 
 <!-- Badges & Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/normal-cb.png?username=PurplePirate28&style=flat-square&label=Profile+Views&color=6366F1" alt="visitor counter" />
   <a href="https://linkedin.com/in/kachisicho-nzimako-9781a5349"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://purplepirate28.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://vercel.com/kaima-nzimako/portfolio/ENC5TZUZc6dEvndFj3ntLSjEvyGx"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
